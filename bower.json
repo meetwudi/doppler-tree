@@ -1,0 +1,18 @@
+{
+  "name": "doppler-tree",
+  "version": "0.0.0",
+  "authors": [
+    "John Wu <webmaster@leapoahead.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Snap.svg": "~0.3.0"
+  }
+}

@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+}
+
+.container {
+  height: 100%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.o-tree {
+  width: 383px;
+  height: 406px;
+}

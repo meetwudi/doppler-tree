@@ -1,0 +1,22 @@
+[
+  {
+    "id": "#leaf1",
+    "leftRotateParams": [-10, 0, 40],
+    "rightRotateParams": [10, 0, 40]
+  },
+  {
+    "id": "#leaf2",
+    "leftRotateParams": [-10, 40, 40],
+    "rightRotateParams": [10, 40, 40]
+  },
+  {
+    "id": "#leaf3",
+    "leftRotateParams": [-10, 40, 40],
+    "rightRotateParams": [10, 40, 40]
+  },
+  {
+    "id": "#leaf4",
+    "leftRotateParams": [-4, 60, 60],
+    "rightRotateParams": [4, 60, 60]
+  }
+]
